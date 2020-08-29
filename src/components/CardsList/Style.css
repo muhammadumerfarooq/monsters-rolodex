@@ -1,0 +1,11 @@
+.Monster {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    column-gap: 20px;
+    row-gap: 50px;
+    justify-content:end;
+    padding: 40px 100px;
+
+    background: transparent;
+
+}
